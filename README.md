@@ -42,7 +42,7 @@ Actividad 3: Descripción de Memorias xPROM Objetivo: Describir los diferentes t
 
 **Actividades Avanzadas**
 
-ctividad 1: Ensamblado de un Computador Objetivo: Identificar las partes de un computador. 
+Actividad 1: Ensamblado de un Computador Objetivo: Identificar las partes de un computador. 
 Instrucciones: 
 1. Basándote en una lista de componentes (procesador, placa base, RAM, almacenamiento, fuente de alimentación, carcasa), identifica y explica la función de cada uno.
 
