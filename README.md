@@ -1,2 +1,2 @@
 labs del curso 
-Your PQ_IFCD0112_1_1_Programación con lenguajes orientados a objetos y bases de datos relacionales Path
+PQ_IFCD0112_1_1_Programación con lenguajes orientados a objetos y bases de datos relacionales Path
